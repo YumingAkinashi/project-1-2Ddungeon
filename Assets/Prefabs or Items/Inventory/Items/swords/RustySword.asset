@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f12b155ddf1ef488365ee78200bd99, type: 3}
+  m_Name: RustySword
+  m_EditorClassIdentifier: 
+  itemNames: RustySword
+  weight: 33
+  icon: {fileID: 21300000, guid: adf33a1330e648e4cb08c328ddbfa30e, type: 3}
+  strengthBonus: 10
+  intellegenceBonus: 0
+  agilityBonus: 0
+  vitalityBonus: 2
+  maxHitpointBonus: 20
+  maxManaBonus: 0
+  strengthPercentBonus: 0
+  intellegencePercentBonus: 0
+  agilityPercentBonus: 0
+  vitalityPercentBonus: 0
+  maxHitpointPercentBonus: 0
+  maxManaPercentBonus: 0
+  equipmentType: 0
+  ItemObject: {fileID: 7155429666772793159, guid: f793d21a51c4a1740a3faf31146b9fe7, type: 3}

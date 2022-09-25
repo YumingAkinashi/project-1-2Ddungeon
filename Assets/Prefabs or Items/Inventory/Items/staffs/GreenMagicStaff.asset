@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8f12b155ddf1ef488365ee78200bd99, type: 3}
+  m_Name: GreenMagicStaff
+  m_EditorClassIdentifier: 
+  itemNames: GreenMagicStaff
+  weight: 80
+  icon: {fileID: 21300000, guid: 034d499db1085ec4db5a29e9d6c074bf, type: 3}
+  strengthBonus: 0
+  intellegenceBonus: 65
+  agilityBonus: 0
+  vitalityBonus: 45
+  maxHitpointBonus: 10
+  maxManaBonus: 300
+  strengthPercentBonus: 0
+  intellegencePercentBonus: 0
+  agilityPercentBonus: 0
+  vitalityPercentBonus: 0
+  maxHitpointPercentBonus: 0
+  maxManaPercentBonus: 0
+  equipmentType: 1
+  ItemObject: {fileID: 1016699827905041972, guid: 78af472d8b4508144bc1598ef53321a1, type: 3}
